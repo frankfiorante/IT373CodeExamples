@@ -26,20 +26,4 @@ io.c
 - run 'dtrace -s trace-io.d' in another window
   ("trace-io.csh" can do this for you)
   this shows how complex the file system is ...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
